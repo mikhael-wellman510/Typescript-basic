@@ -9,3 +9,5 @@ const luasSegitiga: Rectangle = {
 };
 
 console.log("luas segitiga : ", luasSegitiga);
+
+interface BookService {}

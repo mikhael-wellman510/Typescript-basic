@@ -26,6 +26,15 @@ package-lock json akan berubah ketika kita update versi terbaru , lalu kita npm 
 - package json itu : identitas project , daftar dependencis yg di butuhkan
 
 - node modules hasil install fisik nya
+- dist : tempat hasil build , untuk mengubah hasil TS -> JS
+- npm : untuk menginstall libarary secara otomatis , dan menyimpan nya d node modules , supaya kita g download manual satu persatu
 
-=====================================
+Class:
+
+1. private -> hanya bisa di akses di dalam class itu sendiri
+2. Publik -> bisa di akses dari keluar class
+3. protected -> hanya bisa di akses di inheritance class nya
+
+# arti immutable -> tidak bisa di ubah setelah di buat , jadi harus buat baru
+
 lanjutkan besok Casting

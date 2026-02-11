@@ -28,6 +28,7 @@ const angka: [number, number, number] = [1, 2, 3];
 const resHasil: number = sum(...angka);
 console.log(resHasil);
 
+// =========== spread di params function nya ==============
 function sum2(...angka: number[]): number {
   return angka.reduce((a, b) => a + b);
 }
