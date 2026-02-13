@@ -35,6 +35,8 @@ Class:
 2. Publik -> bisa di akses dari keluar class
 3. protected -> hanya bisa di akses di inheritance class nya
 
+- Tyoe inference , kemampuan typescript mengetahui tipe data apa yg di pakai
+
 # arti immutable -> tidak bisa di ubah setelah di buat , jadi harus buat baru
 
-lanjutkan besok Casting
+lanjutkan Basic Async Programing
